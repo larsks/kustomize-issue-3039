@@ -1,3 +1,7 @@
+This is an example to accompany [kubernetes-sigs/kustomize#3039][].
+
+[kubernetes-sigs/kustomize#3039]: https://github.com/kubernetes-sigs/kustomize/issues/3039
+
 This works:
 
 ```
