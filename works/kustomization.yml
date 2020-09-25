@@ -1,8 +1,0 @@
----
-resources:
-  - metallb.yml
-
-secretGenerator:
-  - name: memberlist
-    files:
-      - secretkey

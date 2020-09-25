@@ -1,0 +1,6 @@
+---
+resources:
+  - metallb.yml
+
+generators:
+  - secrets/sops-generator.yml
